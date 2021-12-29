@@ -29,7 +29,7 @@ export const Home = () => {
         <div className="links">
           <ul className="mobileMenu" id="menu">
             <div className="hamburger close">
-              <a href="#">
+              <a href="# ">
                 <i class="fa fa-close"></i>
               </a>
             </div>
